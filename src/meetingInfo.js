@@ -41,4 +41,4 @@ function convertHHMMtoMinutes(dateTimeStr) {
   return parseInt(dateTimeValues[0]) * 60 + parseInt(dateTimeValues[1]);
 }
 
-scheduleMeeting("16:56", 50);
+scheduleMeeting("18:00", 15);
